@@ -15,5 +15,12 @@ return [
 
     'previous' => '&laquo; Previous',
     'next' => 'Next &raquo;',
+   'admin.name'=>'Name',
+'admin.function'=>'Function',
+'admin.title'=>'Title',
+'admin.category'=>'Category',
+'admin.create'=>'Create',
+
+
 
 ];
